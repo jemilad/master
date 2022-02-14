@@ -19,4 +19,3 @@ You need audio from two fish cages taken at different times of the day and place
 13.  Go to **Test**.
 14.  Insert the MFCC test data set given from **Feature extraction** in the function *model.predict()*.
 15.  Name your targets, either four or two classes.
-16.  Choose the right *for* loop for the amount of classes chosen
